@@ -1,0 +1,21 @@
+D:\афонин c#\lab_2\lab_2\bin\Debug\lab_2.exe.config
+D:\афонин c#\lab_2\lab_2\bin\Debug\lab_2.exe
+D:\афонин c#\lab_2\lab_2\bin\Debug\lab_2.pdb
+D:\афонин c#\lab_2\lab_2\obj\Debug\lab_2.csproj.AssemblyReference.cache
+D:\афонин c#\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+D:\афонин c#\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+D:\афонин c#\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+D:\афонин c#\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+D:\афонин c#\lab_2\lab_2\obj\Debug\lab_2.exe
+D:\афонин c#\lab_2\lab_2\obj\Debug\lab_2.pdb
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\bin\Debug\lab_2.exe.config
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\bin\Debug\lab_2.exe
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\bin\Debug\lab_2.pdb
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.csproj.AssemblyReference.cache
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.csproj.SuggestedBindingRedirects.cache
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.exe
+E:\Афонин с#\Чужая лаба\OOP_C_SHARP--main\lab_2\lab_2\obj\Debug\lab_2.pdb
