@@ -1,0 +1,12 @@
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\bin\Release\lab_3.exe.config
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\bin\Release\lab_3.exe
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\bin\Release\lab_3.pdb
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.csproj.AssemblyReference.cache
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.csproj.SuggestedBindingRedirects.cache
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.Form1.resources
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.Form2.resources
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.Properties.Resources.resources
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.csproj.GenerateResource.cache
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.csproj.CoreCompileInputs.cache
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.exe
+E:\Афонин с#\lab_rab\OOP_C_SHARP--main\lab_3\lab_3\obj\Release\lab_3.pdb
